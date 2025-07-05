@@ -4,6 +4,8 @@ stack :
 - framework : laravel inertia with vue
 - php version : 8.2.28
 - laravel version : 12
+- node version : v24.2.0
+- npm version : 11.3.0
 
 1. instal :
 - composer install
