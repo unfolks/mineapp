@@ -1,20 +1,23 @@
 Mine App version 0.1
 
-instal
+stack :
+- framework : laravel inertia with vue
+- php version : 8.2.28
+- laravel version : 12
+
+1. instal :
 - composer install
 - npm install
 
-auth login
+2. Migrasi Database :
+- php artisan migrate
+
+3. auth login :
 - Admin(email: admin@example.com, password: password)
 - Approval 1 (email: atasan1@example.com, password: password)
 - Approval 2 (email: atasan2@example.com, password: password)
 
-
-framework : laravel inertia with vue
-php version : 8.2.28
-laravel version : 12
-
-panduan penggunaan aplikasi
+panduan penggunaan aplikasi :
 Pemesanan
 1. masuk / login sebagai admin atau approval
 2. masuk ke halaman order
