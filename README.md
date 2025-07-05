@@ -1,9 +1,14 @@
 Mine App version 0.1
 
+instal
+- composer install
+- npm install
+
 auth login
 - Admin(email: admin@example.com, password: password)
 - Approval 1 (email: atasan1@example.com, password: password)
 - Approval 2 (email: atasan2@example.com, password: password)
+
 
 framework : laravel inertia with vue
 php version : 8.2.28
